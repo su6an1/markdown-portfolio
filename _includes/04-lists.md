@@ -16,3 +16,8 @@ List of my favourite things:
 - Mint chocolate
 - Black forest
 - Cotton candy
+
+Here is a checklist for things I need to do today:
+- [ ] Record this video
+- [ ] Edit this video
+- [ ] Prep for a talk I'm giving this afternon
